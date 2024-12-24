@@ -1,0 +1,8 @@
+numpy~=1.26.4
+thop~=0.1.1-2209072238
+torchvision~=0.19.1
+matplotlib~=3.9.4
+seaborn~=0.13.2
+scikit-learn~=1.5.1
+pandas~=1.2.4
+tqdm~=4.66.5
